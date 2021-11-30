@@ -1,11 +1,12 @@
+/*
+    "XY" -> 1
+    "YX" -> 1
+    "OOOXOOYOXO" -> 2 // 3; 2
+    "OOOXXOY" -> 2 // 3; 2
+*/
 
 #include <iostream>
 #include <vector>
-
-// "XY" -> 1
-// "YX" -> 1
-// "OOOXOOYOXO" -> 2 // 3; 2
-// "OOOXXOY" -> 2 // 3; 2
 
 using namespace std;
 

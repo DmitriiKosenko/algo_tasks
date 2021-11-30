@@ -1,4 +1,0 @@
-
-Prepare sublime for c++ development:
-	https://jdhao.github.io/2018/03/28/sublime-cpp-build-system/
-
